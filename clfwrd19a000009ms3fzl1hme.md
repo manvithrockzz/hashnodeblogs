@@ -4,6 +4,7 @@ seoTitle: "Computer Network for SDE Interviews"
 datePublished: Fri Mar 31 2023 16:27:36 GMT+0000 (Coordinated Universal Time)
 cuid: clfwrd19a000009ms3fzl1hme
 slug: most-important-cn-questions-over-internet
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/3GZNPBLImWc/upload/cec97b3dce8871f0a27ff2c524d6ccd3.jpeg
 tags: networking, computernetwork, computer-networking
 
 ---
