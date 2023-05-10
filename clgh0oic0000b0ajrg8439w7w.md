@@ -12,11 +12,11 @@ tags: programming-blogs, browsers, coding, internet, isp
 
 * Have you ever thought about who runs the internet?
     
-* Who controls the internet worldwide? - Maybe you could think that the internet providers companies like Jio, Airtel and BSNL control the Internet, but that isn't true because If one company stops providing it, there are other companies present Then,
+* Who controls the internet worldwide? - Maybe you could think that the internet providers companies like Jio, Airtel and BSNL control the Internet, but that isn't true because If one company stops providing it, there are other companies present, Then?
     
-* you'd think maybe our government controls it, but that isn't true either At most, the government can remove 2-3 Facebook posts or block websites But they can be bypassed easily And this does not amount to control over the internet worldwide
+* you'd think maybe our government controls it, but that isn't true either. At most, the government can remove 2-3 Facebook posts or block websites But they can be bypassed easily And this does not amount to control over the internet worldwide
     
-* Then, maybe you could think that companies like Google, Facebook and Youtube control it because they have the largest amount of data But that isn't true either because you can build a website of your own and these companies would not be able to interfere in it,
+* Then, maybe you could think that companies like Google, Facebook and Youtube control it because they have the largest amount of data, but that isn't true either, because you can build a website of your own and these companies would not be able to interfere in it,
     
 
 ➡️ So the question is when you are building a website of your own, Who is providing you with the space to create the website on the internet? Is there a website that can tell you which website you can build and which website you cannot? In this blog, I'd like to tell you about the internet, Because the internet is an important tool in maintaining freedom and democracy, I think it's essential to understand how the internet works and what it is This is what I'd like to mention in this blog,
