@@ -1,8 +1,8 @@
 ---
-title: "The Magic of  WTemplate Engines😍"
+title: "The Magic of  Template Engines😍"
 datePublished: Tue Jul 11 2023 16:18:31 GMT+0000 (Coordinated Universal Time)
 cuid: cljyhy8tn000708l29hn3h0w8
-slug: the-magic-of-wtemplate-engines
+slug: the-magic-of-template-engines
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689092253723/b85188eb-c013-48f2-ba6a-b10ce1236f65.png
 tags: express, web-development, backend, expressjs-cilb5apda0066e053g7td7q24, template-engine
 
