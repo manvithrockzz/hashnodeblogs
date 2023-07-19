@@ -2,7 +2,7 @@
 title: "All you Know about JS Closures 💀"
 seoTitle: "Closures in JavaScript"
 seoDescription: "Web Development- A closure is the combination of a function bundled together (enclosed) with references to its surrounding state."
-datePublished: Wed Jul 19 2023 03:59:02 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Jul 17 2023 04:02:48 GMT+0000 (Coordinated Universal Time)
 cuid: clk9722wa00030amgf0g1fem4
 slug: all-you-know-about-js-closures
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689738854070/f72a17a0-0d5a-4755-9bdb-a2991ee86d85.png
@@ -32,7 +32,7 @@ console.log(x); // ReferenceError: x is not defined
 
 This applies to any blocks of code, such as if statements, for and while loops, functions, object Literal Declarations, and so on😭.
 
-## **Nested Functions in JavaScript**
+## **Nested Functions in JavaScript:**
 
 A nested function means a function inside a function🔎.
 
@@ -62,7 +62,6 @@ When JavaScript code is executed💀, lexical environments are created and assoc
 
 * **Environment record:** is the actual place where the variable and function declarations are stored.
     
-
 * **Reference to the outer environment:** means it has access to its outer (parent) lexical environment.
     
 
@@ -85,9 +84,9 @@ outerFunction();
 
 In this example, the output is `Hello`. When `outerFunction` is called, it executes the `innerFunction`, which logs the value of `outerVariable` to the console. Since `innerFunction` has access to the lexical environment of its containing scope (`outerFunction`), it can successfully access and print the value of `outerVariable`.
 
-# Closures:
+# Closures
 
-A closure is a behaviour that occurs when a nested function "remembers" and retains access to variables from its outer scope, even after the outer function has finished executing.
+A closure is a <mark>behaviour</mark> that occurs when a nested function "remembers" and retains access to variables from its outer scope, even after the outer function has finished executing.
 
 ```javascript
 function outerFunction() {
@@ -107,11 +106,11 @@ closure();
 
 In this example, the output is also `Hello`. The `outerFunction` returns the `closureFunction`. When `outerFunction` is called and assigned to the variable `closure`, it creates a closure. The closure retains access to the `outerVariable` defined in its outer scope. Calling `closure()` invokes the `closureFunction`, which logs the value of `outerVariable`. The closure successfully "remembers" the value of `outerVariable` even though `outerFunction` has finished executing, resulting in the output of `Hello`.
 
-### Ohh,,, Sorry for the confusion😮‍💨!
+### **Ohh,,, Sorry for the confusion😮‍💨!**
 
 # Let's see how Closure and Lexical environment is related.
 
-* Lexical environments are like containers that hold variables and functions within a scope.
+* Lexical environments are like <mark>containers </mark> that hold variables and functions within a scope.
     
 * Closures are a behaviour that occurs when a nested function retains access to variables from its outer scope, even after the outer function has finished executing.
     
@@ -122,7 +121,7 @@ In this example, the output is also `Hello`. The `outerFunction` returns the `cl
 
 Today you learned😍 how closures work in JavaScript.
 
-To put it short, when you have a function inside another function, a closure is automatically created.
+<mark>To put it short, when you have a function inside another function, a closure is automatically created.</mark>
 
 A closure means a function has access to the scope of the outer function. This applies even when the outer scope is destroyed.
 
