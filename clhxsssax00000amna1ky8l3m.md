@@ -1,5 +1,5 @@
 ---
-title: "10 Interesting Facts about C++ 😒"
+title: "10 Interesting facts about C++ 😒"
 datePublished: Sun May 21 2023 19:15:01 GMT+0000 (Coordinated Universal Time)
 cuid: clhxsssax00000amna1ky8l3m
 slug: 10-interesting-facts-about-c
