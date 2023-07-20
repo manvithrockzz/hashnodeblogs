@@ -1,8 +1,8 @@
 ---
-title: "10 Interesting facts about C++ 😒"
+title: "10 Interesting facts, C++ 😒"
 datePublished: Sun May 21 2023 19:15:01 GMT+0000 (Coordinated Universal Time)
 cuid: clhxsssax00000amna1ky8l3m
-slug: 10-interesting-facts-about-c
+slug: 10-interesting-facts-c
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684696269326/75d8ee20-bedb-4fa8-9354-6b880e598047.png
 tags: cpp, programming-blogs, cpp-guide, cpp-tutorial
 
