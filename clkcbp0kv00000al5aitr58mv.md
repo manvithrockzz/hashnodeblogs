@@ -1,10 +1,10 @@
 ---
-title: "Understanding the Call Stack in JavaScript"
+title: "Understanding the Call Stack in JS🧿🔥"
 seoTitle: "CALLSTACKS is all about in WEBDEVELOPMENT"
 seoDescription: "The call stack: JavaScript's function tracker. It maintains execution order. Functions added on top, removed when done. Code's faithful guide."
 datePublished: Fri Jul 21 2023 08:32:09 GMT+0000 (Coordinated Universal Time)
 cuid: clkcbp0kv00000al5aitr58mv
-slug: understanding-the-call-stack-in-javascript
+slug: understanding-the-call-stack-in-js
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689754691358/7b7c459f-265b-490d-88a3-cb2baafa6250.jpeg
 tags: javascript, web-development, javascript-framework, mern, callstack
 
