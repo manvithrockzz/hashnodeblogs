@@ -1,10 +1,10 @@
 ---
-title: "Understanding Callback Functions📞🔙 in JavaScript."
+title: "Understanding Callback Functions📞🔙"
 seoTitle: ""Mastering Callback Functions in JavaScript: A Guide""
 seoDescription: ""Learn how to harness the power of callback functions in JavaScript for handling asynchronous tasks. A comprehensive guide to using callbacks effectively.""
 datePublished: Sat Jul 22 2023 05:15:14 GMT+0000 (Coordinated Universal Time)
 cuid: clkdk3muq000609l2fppx67ha
-slug: understanding-callback-functions-in-javascript
+slug: understanding-callback-functions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689915975922/39a8ebe6-4d9c-4949-8724-61789da76c38.png
 tags: web-development, backend, reactjs, frontend-development, callback-functions
 
