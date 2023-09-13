@@ -1,8 +1,8 @@
 ---
-title: "Java for the Haters🫵"
+title: "Java for Haters🫵"
 datePublished: Wed Sep 13 2023 19:57:31 GMT+0000 (Coordinated Universal Time)
 cuid: clmi5yems000609lg1eux1b7y
-slug: java-for-the-haters
+slug: java-for-haters
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694634948169/86252a96-337d-4e90-bc31-622c5eec8e8b.webp
 tags: software-development, java, javascript, engineering, reactjs
 
