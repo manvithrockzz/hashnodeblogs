@@ -5,6 +5,7 @@ seoDescription: "Discover the nuances of React development as we compare functio
 datePublished: Mon Nov 20 2023 09:21:05 GMT+0000 (Coordinated Universal Time)
 cuid: clp6p5v7o000008kzdkaueejy
 slug: function-component-vs-class-component
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700472667731/b5780678-b4ea-46aa-b45b-a5475e84b481.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700471976312/25d185e6-cf93-4ec5-a3fd-b0559f01b200.png
 tags: software-development, javascript, backend, frontend-development
 
